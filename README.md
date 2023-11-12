@@ -2,5 +2,20 @@
 
 This python program is based on [the following article by Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html).
 
+
+# donutplot.py
+
+**Matplotlib is required to run this code** (pip install matplotlib)
+
+```bash
+python donutplot.py
+```
+
 https://github.com/Thorvicnet/donut.py/assets/73116308/4c233549-032a-4df5-81dc-f828a71fef42
+
+# donut.py
+
+```bash
+python donut.py
+```
 
