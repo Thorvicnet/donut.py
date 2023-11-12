@@ -5,12 +5,12 @@ This simple python program is based on [the following article by Andy Sloane](ht
 
 
 There are 2 versions of the program:
-    - donutplot.py - This version uses matplotlib to plot the donut 
-    - donut.py - This version displays the donut in the terminal
+- donutplot.py - This version uses matplotlib to plot the donut 
+- donut.py - This version displays the donut in the terminal
 
 ## donutplot.py
 
-**Matplotlib is required to run this code** (pip install matplotlib)
+> Matplotlib is required to run this code (pip install matplotlib)
 
 ```bash
 python donutplot.py
